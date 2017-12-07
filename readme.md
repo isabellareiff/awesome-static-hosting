@@ -5,7 +5,7 @@ Inspired by the OG [Awesome List](https://github.com/sindresorhus/awesome), [Ada
 Read it in blog form on [Medium](/).
 
 For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="70px">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="50px">
 </a>
 
 If you'd like to contribute, see [Contribution Guidelines](CONTRIBUTING.md).
