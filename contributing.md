@@ -44,4 +44,4 @@ Sometimes, I might ask you to edit your Pull Request before it is included. This
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
 
-### Thanks to the original [Awesome List](https://github.com/agarrharr/) for providing nice contribution guidelines.
+### Thanks to the original [Awesome List](https://github.com/agarrharr/) for providing `awesome` contribution guidelines.
