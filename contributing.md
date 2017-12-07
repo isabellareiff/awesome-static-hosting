@@ -28,7 +28,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure what you're adding is truly **awesome**, and you aren't just adding it for the sake of adding it. 
 - Make an individual pull request for each addition to the list.
-- Use the following format: `[Project Name](link): Project description/Why it's Awesome-worthy.`
+- Use the following format: `[Project Name](link): Project Description/Why It's Awesome-worthy.`
 - Item additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
