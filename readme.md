@@ -20,6 +20,7 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 - [Netlify](hithere)
 - [BitBucket Pages](hithere)
 - [BitBalloon](hithere)
+- [Firebase](https://firebase.google.com/docs/hosting/)
 
 ## Super Cheap
 - [Forge](https://getforge.com/) - Version based history, ability to collaborate, host files from Github, Dropbox, or Drag & Drop a .zip folder. Forge is really simple and has little to no learning curve for the inexperienced user.
