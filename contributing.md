@@ -14,7 +14,7 @@ If you have something awesome to contribute to this awesome list, this is how yo
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Go to this Awesome list's GitHub page [here] (https://github.com/isabellareiff/awesome-static-hosting)
+1. Go to this Awesome list's GitHub page [here](https://github.com/isabellareiff/awesome-static-hosting)
 2. Click on the `readme.md` file.
 3. Now click on the edit icon.
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow the guidelines below. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
