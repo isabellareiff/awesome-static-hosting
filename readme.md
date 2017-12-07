@@ -14,7 +14,7 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 
 ## Free
 - [Github Pages](hithere)
-- [Jekyll](hithere)
+- [Updog](https://updog.co/) - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons. The paid plan is $3/month and gets you unlimited sites and contact form support. There are simple video tutorials to help you get your website up, and there is basically no learning curve, assuming you understand html and CSS.
 - [hello](hithere)
 - [hello](hithere)
 - [hello](hithere)
@@ -22,13 +22,13 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 - [hello](hithere)
 
 ## Paid Very Little
-- [hello](hithere)
+- [Forge](https://getforge.com/) - Version based history, ability to collaborate, host files from Github, Dropbox, or Drag & Drop a .zip folder. Forge is really simple and has little to no learning curve for the inexperienced user.
+- [AWS](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - Amazon Web Services offers a free usage tier for hosting static websites, and if you stay within it your monthly cost can come out to <$1.00. AWS Scales easily and is very robust, but can be difficult for less "techy" people.
 - [hello](hithere)
 - [hello](hithere)
 - [hello](hithere)
 
 ## Paid More
-- [Paid Very Little](#paid-very-little)
 - [Paid Very Little](#paid-very-little)
 - [Paid Very Little](#paid-very-little)
 - [Paid Very Little](#paid-very-little)
