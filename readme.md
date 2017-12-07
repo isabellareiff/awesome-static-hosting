@@ -4,7 +4,7 @@ For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px">
 </a>.  Also inspired by [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...  Read it in blog form on [Medium](/).
 
-If you'd like to contribute, see [Contribution Guidelines](CONTRIBUTING.md).
+If you'd like to contribute, see [Contribution Guidelines](https://github.com/isabellareiff/awesome-static-hosting/blob/master/contributing.md).
 
 ---
 - [Free](#free)
