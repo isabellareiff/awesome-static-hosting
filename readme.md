@@ -2,7 +2,7 @@
 ### A community curated list of free and paid static website hosts
 For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px">
-</a>.  Also inspired by [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...  Read it [coming soon] in blog form on [Medium](medium.com).
+</a>.  Also inspired by [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...  Read it [coming soon] in blog form on [Medium](https://medium.com).
 
 If you'd like to contribute, see [Contribution Guidelines](https://github.com/isabellareiff/awesome-static-hosting/blob/master/contributing.md).
 
@@ -14,7 +14,7 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 
 ## Free
 - [Github Pages](hithere)
-- [Updog](https://updog.co/) - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons. The paid plan is $3/month and gets you unlimited sites and contact form support. There are simple video tutorials to help you get your website up, and there is basically no learning curve, assuming you understand html and CSS.
+- [Updog](https://updog.co/) - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons. There are simple video tutorials to help you get your website up, and there is basically no learning curve, assuming you understand html and CSS. There is a $3/month plan for those who want unlimited websites.
 - [hello](hithere)
 - [hello](hithere)
 - [hello](hithere)
