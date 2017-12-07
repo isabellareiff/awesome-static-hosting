@@ -2,8 +2,7 @@
 ### A community curated list of free and paid static website hosts
 For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px">
-</a>. Inspired by the OG [Awesome List](https://github.com/sindresorhus/awesome), [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...
-Read it in blog form on [Medium](/).
+</a>.  Also inspired by [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...  Read it in blog form on [Medium](/).
 
 If you'd like to contribute, see [Contribution Guidelines](CONTRIBUTING.md).
 
