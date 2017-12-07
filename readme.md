@@ -1,4 +1,4 @@
-# Awesome-static-hosting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-static-hosting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) CURRENTLY UNDER CONSTRUCTION
 ### A community curated list of free and paid static website hosts
 For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px">
