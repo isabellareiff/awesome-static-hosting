@@ -14,7 +14,7 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 
 ## Free
 - [Github Pages](hithere)
-- [Updog](https://updog.co/) - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons. There are simple video tutorials to help you get your website up, and there is basically no learning curve, assuming you understand html and CSS. There is a $3/month plan for those who want unlimited websites.
+- [Updog](https://updog.co/) - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons.
 - [Neocities](https://neocities.org/) - You can go with the built-in "in browser html editor", or drag and drop your files directly into your website.
 - [Gitlab Pages](hithere)
 - [hello](hithere)
