@@ -15,7 +15,7 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 
 ## Free
 - [BitBucket Pages](https://pages.bitbucket.io/) - **Tech Lvl: 3/5** - Same deal as Gihub and Gitlab Pages, but a little less documented. Unlimited free private repositories, and free for teams up to 5 users.
-- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Free custom domain with SSL support and setup custom hosting behavior using the Firebase CLI. Big Advantage: able to run server-side dynamic processing.
+- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Free custom domain with SSL support and set up custom hosting behaviors using the Firebase CLI. Huge advantage: un-"static" your site and be able to run server-side processing to generate dynamic content, using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
 - [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** The OG Github static website host. Free to host from any Github repository, and easily connect custom domains. Major Con: Private repositories (aka private website source code) only with paid monthly plan.
 - [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Very similar to Github pages, except hosted with Gitlab instead. Unlike Github Pages, you have unlimited private and public repositories, allowing your website source code to always be hidden, and it works with (almost) all static site generators, not just Jekyll.
 - [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - You can go with the built-in "in browser html editor", or drag and drop your files directly into your website.
