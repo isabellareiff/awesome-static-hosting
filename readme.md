@@ -1,10 +1,10 @@
-# Awesome-static-hosting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) CURRENTLY UNDER CONSTRUCTION
+# Awesome-static-website-hosting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) CURRENTLY UNDER CONSTRUCTION
 ### A community curated list of free and paid static website hosts
 For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px">
 </a>.  Also inspired by [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...  Read it [coming soon] in blog form on [Medium](https://medium.com).
 
-If you'd like to contribute, see [Contribution Guidelines](https://github.com/isabellareiff/awesome-static-hosting/blob/master/contributing.md).
+If you'd like to contribute, see [Contribution Guidelines](https://github.com/isabellareiff/awesome-static-website-hosting/blob/master/contributing.md).
 
 ---
 - [Free](#free)
@@ -13,12 +13,12 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 ---
 
 ## Free
-- [Github Pages](https://pages.github.com/) - The OG Github static website host. Free to host from any Github repository, and easily connect custom domains.
+- [Github Pages](https://pages.github.com/) - The OG Github static website host. Free to host from any Github repository, and easily connect custom domains. Major Con: Private repositories (aka private website source code) only with paid monthly plan.
 - [Updog](https://updog.co/) - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons.
 - [Neocities](https://neocities.org/) - You can go with the built-in "in browser html editor", or drag and drop your files directly into your website.
-- [Gitlab Pages](hithere)
+- [Gitlab Pages](https://about.gitlab.com/features/pages/) - Very similar to Github pages, except hosted with Gitlab instead. Unlike Github Pages, you have unlimited private and public repositories, allowing your website source code to always be hidden, and it works with (almost) all static site generators, not just Jekyll.
+- [BitBucket Pages](https://pages.bitbucket.io/) - 
 - [Netlify](hithere)
-- [BitBucket Pages](hithere)
 - [BitBalloon](hithere)
 - [Firebase](https://firebase.google.com/docs/hosting/)
 
