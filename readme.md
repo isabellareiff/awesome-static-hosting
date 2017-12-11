@@ -5,7 +5,8 @@ For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome
 
 If you'd like to contribute, see [Contribution Guidelines](https://github.com/isabellareiff/awesome-static-website-hosting/blob/master/contributing.md).
 
-**Tech Lvl: #/5** = how much previous knowledge on static websites and hosting you ideally have before using that platform 
+***Tech Lvl: #/5** = how much previous knowledge on static websites and hosting you ideally have before using that platform*
+
 ---
 - [Free](#free)
 - [Super Cheap](#super-cheap)
