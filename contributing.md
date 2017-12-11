@@ -34,7 +34,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a relevant title.
-- The body of your commit message should contain a defense for the Tech Level you choose.
+- The body of your commit message should contain a reason for the Tech Level you choose.
 
 Thank you for your suggestions!
 
