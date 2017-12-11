@@ -10,7 +10,7 @@ If you'd like to contribute, see [Contribution Guidelines](https://github.com/is
 ---
 - [Free](#free)
 - [Super Cheap](#super-cheap)
-- [Paid](#cheap)
+- [Paid](#paid)
 ---
 
 ## Free
