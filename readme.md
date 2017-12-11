@@ -1,7 +1,7 @@
 # Awesome-static-website-hosting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ### A curated list of free and paid static website hosts, for everyone from beginners to experts
 For more awesomeness, check out <a href="https://github.com/sindresorhus/awesome">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px"></a>.  Also inspired by [Adam's list](https://github.com/agarrharr), [Brian's list](https://github.com/b-long), and all the lists that came before...
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome" width="30px"></a>.  Also inspired by [Adam](https://github.com/agarrharr)'s list, [Brian](https://github.com/b-long)'s list, and all the lists that came before...
 
 If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 
