@@ -4,11 +4,11 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Table of Contents
 
-- [Adding to this list](#adding-something-to-this-awesome-list)
+- [How to add to this list](#how-to-add-something-to-this-list)
 - [Guidelines for adding to this list](#guidelines-for-adding-to-this-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
-## Adding something to this awesome list
+## How to add something to this list
 
 If you have something awesome to contribute to this awesome list, this is how you do it.
 
@@ -28,13 +28,13 @@ Please ensure your pull request adheres to the following guidelines:
 - Check previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure what you're adding is truly **awesome**, and you aren't just adding it for the sake of adding it. 
 - Make an individual pull request for each addition to the list.
-- Use the following format: `[Project Name](link): Project Description/Why It's Awesome-worthy.`
+- Use the following format: `[Project Name](link): - Tech Lvl: #/5 - Description.`
 - Item additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a relevant title.
-- The body of your commit message should contain a link to the repository.
+- The body of your commit message should contain a defense for the Tech Level you choose.
 
 Thank you for your suggestions!
 
