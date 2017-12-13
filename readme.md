@@ -23,10 +23,10 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 - [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish with Dropbox or Google Drive, the includes one website and support for a custom domain name, custom 404 page, and custom favicons.
 
 ## Super Cheap
-- [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - Amazon Web Services offers a free usage tier for hosting static websites, and if you stay within it your monthly cost can come out to <$1.00. AWS Scales easily and is very robust, but can be difficult for less "techy" people.
-- [BitBalloon](https://www.bitballoon.com/) - **Tech Lvl: 2/5** - Made as a dumbed-down version of Netlify, simply drag and drop your html, CSS, and JS files into BitBalloon, and it compiles them into a website with automatic form handling. Free on a .bitballoon.com URL, $5/month on a custom URL.
-- [Forge](https://getforge.com/) - **Tech Lvl: 2/5** - Version based history, ability to collaborate, host files from Github, Dropbox, or Drag & Drop a .zip folder. Forge is really simple and has little to no learning curve for the inexperienced user.
-- [Nearly Free Speech](https://www.nearlyfreespeech.net/) - **Tech Lvl: 3/5** - A little more robust than a classic static site generator, as they handle PHP and SQL, but still host static sites at extremely low prices, and easily handle custom domains.
+- [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - AWS has a free usage tier for hosting static sites, so your monthly cost can come out to <$1.00. Scales easily and very robust.
+- [BitBalloon](https://www.bitballoon.com/) - **Tech Lvl: 2/5** - A dumbed-down version of Netlify, drag and drop your html, CSS, and JS files into BitBalloon, it compiles them into a website with automatic form handling. $5/month on a custom URL.
+- [Forge](https://getforge.com/) - **Tech Lvl: 2/5** - Version based history, ability to collaborate, host files from Github, Dropbox, or Drag & Drop a .zip folder. Simple and little to no learning curve for inexperienced users.
+- [Nearly Free Speech](https://www.nearlyfreespeech.net/) - **Tech Lvl: 3/5** - More robust than most static site generators, as they handle PHP and SQL, but still host static sites at low prices.
 
 ## Paid
 - [Aerobatic](https://www.aerobatic.com) -  **Tech Lvl: 3/5** - A static site host with mandatory wildcard SSL, 500 GB/Month data transfer, and is extremely easy to get started with Jekyll, Hugo, React, Yeoman, Hexo, and, of course, plain HTML.
