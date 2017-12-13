@@ -14,13 +14,13 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 ---
 
 ## Free
-- [BitBucket Pages](https://pages.bitbucket.io/) - **Tech Lvl: 3/5** - Same deal as Gihub and Gitlab Pages, but a little less documented. Unlimited free private repositories, and free for teams up to 5 users.
-- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Free custom domain with SSL support and set up custom hosting behaviors using the Firebase CLI. Huge advantage: un-"static" your site and be able to run server-side processing to generate dynamic content, using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
-- [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** The OG Github static website host. Free to host from any Github repository, and easily connect custom domains. Major Con: Private repositories (aka private website source code) only with paid monthly plan.
-- [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Very similar to Github pages, except hosted with Gitlab instead. Unlike Github Pages, you have unlimited private and public repositories, allowing your website source code to always be hidden, and it works with (almost) all static site generators, not just Jekyll.
-- [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - You can go with the built-in "in browser html editor", or drag and drop your files directly into your website.
-- [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Awesome alternative to Github Pages - choose Github, GitLab, or BitBucket to host your repository, and then publish unlimited repositories for free with Netlify. Offers automatic form handling, SSL for custom domains, works automatically with ALL static site generators, and 1-click rollbacks to previous versions of your website, without using branches.
-- [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish with Dropbox or Google Drive, the free plan includes one website and support for a custom domain name, custom 404 page, and custom favicons.
+- [BitBucket Pages](https://pages.bitbucket.io/) - **Tech Lvl: 3/5** - Unlimited free private repositories to host from on BitBucket, and free for teams up to 5 users.
+- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Free custom domain with SSL support and set up custom hosting behaviors using the Firebase CLI. Un-"static" your site and create dynamic content, using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
+- [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** The OG Github static website host. Free to host from any repository, and connect custom domains. Con: Private repos only with paid plan, only builds with Jekyll.
+- [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Unlimited free private repositories to host from on Gitlab, and works with (almost) all static site generators.
+- [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - Use the built-in in-browser html editor, or drag and drop files directly into your website.
+- [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Choose Github, GitLab, or BitBucket to host your repository, and then publish unlimited repos for free with Netlify. Automatic form handling, SSL on custom domains, and works with ALL static site generators.
+- [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish with Dropbox or Google Drive, the includes one website and support for a custom domain name, custom 404 page, and custom favicons.
 
 ## Super Cheap
 - [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - Amazon Web Services offers a free usage tier for hosting static websites, and if you stay within it your monthly cost can come out to <$1.00. AWS Scales easily and is very robust, but can be difficult for less "techy" people.
