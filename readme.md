@@ -18,15 +18,15 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 - [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Custom domains w/ SSL, & dynamic content using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
 - [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** Host from a Github repo, private repos w/ paid plan, only builds w/ Jekyll.
 - [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Host from private repos on Gitlab, works with most static site generators.
-- [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - Built-in in-browser html editor, or drag and drop files directly into your website.
+- [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - Built-in in-browser html editor, or drag & drop files directly into your website.
 - [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Host w/ Github, GitLab, or BitBucket, publish w/ form handling, SSL, and build with ALL static site generators.
 - [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish w/ Dropbox or Google Drive, one website w/ a custom domain, 404 page, and favicons.
 
 ## Super Cheap
-- [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - AWS has a free usage tier for hosting static sites, so your monthly cost can come out to <$1.00. Scales easily and very robust.
-- [BitBalloon](https://www.bitballoon.com/) - **Tech Lvl: 2/5** - Dumbed-down version of Netlify, drag and drop files and it compiles them with automatic form handling. $5/month on a custom URL.
+- [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - Using AWS free usage tier for static sites, monthly costs be <$1.00. Scales easily and very robust.
+- [BitBalloon](https://www.bitballoon.com/) - **Tech Lvl: 2/5** - Simpler version of Netlify, drag & drop files, it compiles them w/ form handling. $5/month on a custom URL.
 - [Forge](https://getforge.com/) - **Tech Lvl: 2/5** - Version based history, collaborate, host files from Github, Dropbox, or a .zip folder.
-- [Nearly Free Speech](https://www.nearlyfreespeech.net/) - **Tech Lvl: 3/5** - More robust than most, as they handle PHP and SQL, but still host static sites at low prices.
+- [Nearly Free Speech](https://www.nearlyfreespeech.net/) - **Tech Lvl: 3/5** - More robust than most, handles PHP and SQL at low prices.
 
 ## Paid
 - [Aerobatic](https://www.aerobatic.com) -  **Tech Lvl: 3/5** - Mandatory wildcard SSL, 500 GB/Month data transfer, & extremely easy to work with Jekyll, Hugo, React, Yeoman, & Hexo.
