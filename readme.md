@@ -14,13 +14,13 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 ---
 
 ## Free
-- [BitBucket Pages](https://pages.bitbucket.io/) - **Tech Lvl: 3/5** - Private repositories to host from on BitBucket, for teams up to 5 users.
-- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Custom domain with SSL & custom hosting behaviors with Firebase CLI. Create dynamic content using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
-- [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** Host from any Github repository & connect custom domains. Con: Private repos only with paid plan, only builds with Jekyll.
-- [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Private repositories to host from on Gitlab, works with (almost) all static site generators.
+- [BitBucket Pages](https://pages.bitbucket.io/) - **Tech Lvl: 3/5** - Host from private repositories on BitBucket, w/ teams up to 5.
+- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Custom domains with SSL, & dynamic content using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
+- [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** Host from a Github repo w/ custom domains. Private repos only with paid plan, only builds with Jekyll.
+- [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Host from private repos on Gitlab, works with most static site generators.
 - [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - Built-in in-browser html editor, or drag and drop files directly into your website.
-- [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Github, GitLab, or BitBucket to host your repository, then publish with automatic form handling, SSL on all domains, and build with ALL static site generators.
-- [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish with Dropbox or Google Drive, includes one website and support for a custom domain name, custom 404 page, and custom favicons.
+- [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Host w/ Github, GitLab, or BitBucket, publish w/ form handling, SSL, and build with ALL static site generators.
+- [Updog](https://updog.co/) - **Tech Lvl: 1/5** - Publish w/ Dropbox or Google Drive, one website w/ a custom domain, 404 page, and favicons.
 
 ## Super Cheap
 - [Amazon S3](https://aws.amazon.com/getting-started/projects/host-static-website/services-costs/) - **Tech Lvl: 5/5** - AWS has a free usage tier for hosting static sites, so your monthly cost can come out to <$1.00. Scales easily and very robust.
