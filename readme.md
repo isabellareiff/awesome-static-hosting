@@ -15,8 +15,8 @@ If you'd like to contribute, see [Contribution Guidelines](/contributing.md).
 
 ## Free
 - [BitBucket Pages](https://pages.bitbucket.io/) - **Tech Lvl: 3/5** - Host from private repositories on BitBucket, w/ teams up to 5.
-- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Custom domains with SSL, & dynamic content using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
-- [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** Host from a Github repo w/ custom domains. Private repos only with paid plan, only builds with Jekyll.
+- [Firebase](https://firebase.google.com/docs/hosting/) - **Tech Lvl: 5/5** - Custom domains w/ SSL, & dynamic content using [Firebase Cloud Functions](https://firebase.google.com/docs/hosting/functions).
+- [Github Pages](https://pages.github.com/) - **Tech Lvl: 3/5** Host from a Github repo, private repos w/ paid plan, only builds w/ Jekyll.
 - [Gitlab Pages](https://about.gitlab.com/features/pages/) - **Tech Lvl: 3/5** - Host from private repos on Gitlab, works with most static site generators.
 - [Neocities](https://neocities.org/) - **Tech Lvl: 1/5** - Built-in in-browser html editor, or drag and drop files directly into your website.
 - [Netlify](https://www.netlify.com/) - **Tech Lvl: 3/5** - Host w/ Github, GitLab, or BitBucket, publish w/ form handling, SSL, and build with ALL static site generators.
